@@ -15,13 +15,13 @@ public class Main {
 
         if (book1.equals(book2))
             System.out.println("Книги одинаковы");
-        else{
+        else {
             System.out.println("Книги разные");
         }
 
         if (author1.equals(author2))
             System.out.println("Автор один и тот же");
-        else{
+        else {
             System.out.println("Авторы разные");
         }
     }
